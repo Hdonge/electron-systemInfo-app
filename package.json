@@ -1,0 +1,14 @@
+{
+  "name": "sys-info-app",
+  "version": "1.0.0",
+  "description": "Sample electorn desktop application",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^5.0.1"
+  }
+}
